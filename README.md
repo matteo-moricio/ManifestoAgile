@@ -1,26 +1,26 @@
 # ManifestoAgile
 
-##Description
+#Description
 
 Agile Software Development is a set of software development methods
 in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams.
  It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.
  
- ###History
+ ##History
  
  The Manifesto for Agile Software Development, also known as the Agile Manifesto, was first proclaimed in 2001,
  six years after "Agile Methodology" was originally introduced by the preeminent software engineers
  of the late 1980s and early 1990s. The Manifesto came out of the DSDM Consortium in 1994, 
  although its roots go back to the mid 1980s at DuPont and works by James Martin and James Kerr et al.
  
- ####Points
+ ###Points
  
  1.Individuals and interactions
  2.Working software
  3.Customer collaboration
  4.Responding to change
  
- #####Principles
+ ####Principles
 
 1.Customer satisfaction by early and continuous delivery of valuable software
 2.Welcome changing requirements, even in late development
@@ -35,7 +35,7 @@ in which requirements and solutions evolve through collaboration between self-or
 11.Self-organizing teams
 12.Regular adaptation to changing circumstance
  
- ######Philosophies
+ #####Philosophies
  Compared to traditional software engineering, agile software development mainly targets complex systems and projects with dynamic,
  non-deterministic and non-linear characteristics
  
@@ -43,7 +43,7 @@ in which requirements and solutions evolve through collaboration between self-or
 2.Iterative vs. waterfall
 3.Code vs. documentation
 
-####### Agile Methods
+###### Agile Methods
 
 Popular agile software development methods and/or process frameworks include (but are not limited to):
 
@@ -61,7 +61,7 @@ Popular agile software development methods and/or process frameworks include (bu
 12.Scrum
 13.Scrumban
  
- ######## Agile Practices
+ ####### Agile Practices
  
 1.Acceptance test-driven development (ATDD)
 2.Agile modeling
@@ -86,7 +86,7 @@ Popular agile software development methods and/or process frameworks include (bu
 21.Velocity tracking
 22.User Story Mapping
 
-########## Applications outside software development
+######### Applications outside software development
 
 Under an Agile Business Management model, agile techniques, practices, principles and values are expressed across four domains.[104]
 
