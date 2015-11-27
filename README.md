@@ -90,4 +90,4 @@ Under an Agile Business Management model, agile techniques, practices, principle
 3.Agile work practices - adopting specific iterative and incremental work practices such as Scrum, Kanban, Test-Driven Development or Feature-Driven Development across all business functions (from Sales, Human Resources, Finance and Marketing).
 4.An enabling organisational structure - with a focus on staff engagement, personal autonomy and outcomes based governance.
 
-![testo alt](C:\Users\Massimo\Pictures\Giulia\AgileManifesto.png "Agile Manifesto")
+![AgileManifesto](http://blog.itil.org/wp-content/uploads/2014/08/AgileManifesto.png "AgileManifesto")
