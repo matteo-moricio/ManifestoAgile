@@ -1,11 +1,8 @@
-#Description
+#Description and history
 
 Agile Software Development is a set of software development methods
 in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams.
  It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.
- 
- #History
- 
  The Manifesto for Agile Software Development, also known as the Agile Manifesto, was first proclaimed in 2001,
  six years after "Agile Methodology" was originally introduced by the preeminent software engineers
  of the late 1980s and early 1990s. The Manifesto came out of the DSDM Consortium in 1994, 
