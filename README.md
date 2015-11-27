@@ -81,7 +81,7 @@ Popular agile software development methods and/or process frameworks include (bu
 21.Velocity tracking
 22.User Story Mapping
 
-#########Applications outside software development
+######Applications outside software development
 
 Under an Agile Business Management model, agile techniques, practices, principles and values are expressed across four domains.
 
