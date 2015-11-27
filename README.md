@@ -1,4 +1,3 @@
-# ManifestoAgile
 
 #Description
 
