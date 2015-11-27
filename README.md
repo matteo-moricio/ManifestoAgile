@@ -4,7 +4,7 @@ Agile Software Development is a set of software development methods
 in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams.
  It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change.
  
- ##History
+ #History
  
  The Manifesto for Agile Software Development, also known as the Agile Manifesto, was first proclaimed in 2001,
  six years after "Agile Methodology" was originally introduced by the preeminent software engineers
@@ -86,7 +86,7 @@ Popular agile software development methods and/or process frameworks include (bu
 
 ######### Applications outside software development
 
-Under an Agile Business Management model, agile techniques, practices, principles and values are expressed across four domains.[104]
+Under an Agile Business Management model, agile techniques, practices, principles and values are expressed across four domains.
 
 1.Integrated customer engagement - to embed customers within any delivery process to share accountability for product/service delivery.
 2.Facilitation-based management - adopting agile management models, like the role of Scrum Master, to facilitate the day-to-day operation of teams.
