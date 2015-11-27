@@ -89,3 +89,5 @@ Under an Agile Business Management model, agile techniques, practices, principle
 2.Facilitation-based management - adopting agile management models, like the role of Scrum Master, to facilitate the day-to-day operation of teams.
 3.Agile work practices - adopting specific iterative and incremental work practices such as Scrum, Kanban, Test-Driven Development or Feature-Driven Development across all business functions (from Sales, Human Resources, Finance and Marketing).
 4.An enabling organisational structure - with a focus on staff engagement, personal autonomy and outcomes based governance.
+
+![testo alt](C:\Users\Massimo\Pictures\Giulia\AgileManifesto.png "Agile Manifesto")
