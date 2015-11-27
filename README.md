@@ -56,7 +56,7 @@ Popular agile software development methods and/or process frameworks include (bu
 12.Scrum
 13.Scrumban
  
-#######Agile Practices
+######Agile Practices
  
 1.Acceptance test-driven development (ATDD)
 2.Agile modeling
