@@ -38,7 +38,7 @@ in which requirements and solutions evolve through collaboration between self-or
 2.Iterative vs. waterfall
 3.Code vs. documentation
 
-###### Agile Methods
+######Agile Methods
 
 Popular agile software development methods and/or process frameworks include (but are not limited to):
 
@@ -56,7 +56,7 @@ Popular agile software development methods and/or process frameworks include (bu
 12.Scrum
 13.Scrumban
  
-####### Agile Practices
+#######Agile Practices
  
 1.Acceptance test-driven development (ATDD)
 2.Agile modeling
@@ -81,7 +81,7 @@ Popular agile software development methods and/or process frameworks include (bu
 21.Velocity tracking
 22.User Story Mapping
 
-######### Applications outside software development
+#########Applications outside software development
 
 Under an Agile Business Management model, agile techniques, practices, principles and values are expressed across four domains.
 
